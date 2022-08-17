@@ -1,0 +1,3 @@
+/home/angeleads/EPITECH/tek2/B-YEP-400-BAR-4-1-indiestudio-blanca.sibecas-hernandez/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
+/home/angeleads/EPITECH/tek2/B-YEP-400-BAR-4-1-indiestudio-blanca.sibecas-hernandez/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/angeleads/EPITECH/tek2/B-YEP-400-BAR-4-1-indiestudio-blanca.sibecas-hernandez/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
