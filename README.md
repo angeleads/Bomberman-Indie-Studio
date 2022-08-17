@@ -1,7 +1,8 @@
+### Bomberman [ Indie Studio ] :copyright:
 This project is an Epitech's tek2 project.
 
 
-## Goal of the project
+## :dart: Goal of the project
 
 The aim of the Indie Studio is to implement a cross-platform 3D video game with real-world tools.
 We used the [CPP language](https://en.wikipedia.org/wiki/C%2B%2B) and the [raylib](https://www.raylib.com/) library to make it.
@@ -47,7 +48,7 @@ cmake -DCMAKE_BUILD_TYPE=Debug -B build -S .; cd build; make; cd ../; ./build/bo
 - The aim of the game is to plant bombs near your enemies and manage to kill them.
 - You can also press the `esc` button in game to go back to the menu and restart a game if you want.
 
-## Take a look
+## :eyes: Take a look
 
 ### Menu
 ![](assets/readme/menu_image.png)
@@ -55,7 +56,7 @@ cmake -DCMAKE_BUILD_TYPE=Debug -B build -S .; cd build; make; cd ../; ./build/bo
 ## Game
 ![](assets/readme/game_image.png)
 
-## Contributors
+## :trollface: Contributors
 [Enzo Bonato](https://github.com/EnzoBonato)
 
 [Miguel Arnalot](https://github.com/miguelarnalot)

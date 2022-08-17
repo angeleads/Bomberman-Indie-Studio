@@ -1,0 +1,5 @@
+build/
+.vscode
+raylib/
+save/SaveMap.txt
+save/SaveVariables.txt
