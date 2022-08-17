@@ -17,7 +17,7 @@
     #define CONTINUEY               250
     #define CONTINUE_SIZE           150
 
-    #define NEW_GAME                "NEW_GAME"
+    #define NEW_GAME                "NEW GAME"
     #define NEW_GAMEX               350
     #define NEW_GAMEY               450
     #define NEW_GAME_SIZE           150

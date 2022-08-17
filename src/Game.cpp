@@ -58,7 +58,7 @@ void Game::draw_function() {
         else if (this->button == 1)
             DrawTexture(this->bomb_tx, 460, 460, WHITE);
         else if (this->button == 2)
-            DrawTexture(this->bomb_tx, 670, 670, WHITE); 
+            DrawTexture(this->bomb_tx, 460, 670, WHITE); 
     }
 }
 

@@ -1,6 +1,4 @@
-### Bomberman [ Indie Studio ] :copyright:
-This project is an Epitech's tek2 project.
-
+# Bomberman [ Indie Studio ] :copyright:
 
 ## :dart: Goal of the project
 
@@ -41,7 +39,7 @@ cmake -DCMAKE_BUILD_TYPE=Debug -B build -S .; cd build; make; cd ../; ./build/bo
 - `right arrow`: Go right
 - `right shift`: Plant the bomb
 
-## Information about the game
+## :blossom: Information about the game
 
 - In this game, you have a load and save system.
 - You can choose between playing against your friend in local or play against a very smart AI.
@@ -63,10 +61,10 @@ cmake -DCMAKE_BUILD_TYPE=Debug -B build -S .; cd build; make; cd ../; ./build/bo
 
 [Blanca Sibecas](https://github.com/bsibecas)
 
+[Angel Halouane](https://github.com/angeleads)
+
 [Josep Teruel](https://github.com/Josep-teruel-surra)
 
 [Todor Zugic](https://github.com/todorzugic)
-
-[Angel Halouane](https://github.com/angeleads)
 
 [Mohamed Ghalab](https://github.com/pogz-Ghalab)
